@@ -22,8 +22,7 @@ Experienced Software Developer with strong problem-solving skills and the abilit
 ## Technical Skills
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)][github]&nbsp;
-[![C](https://img.shields.io/badge/C-%23013243.svg?style=for-the-badge&logo=&logoColor=white)][github]&nbsp;
-[![C++](https://img.shields.io/badge/C%2B%2B-%23013243.svg?style=for-the-badge&logo=&logoColor=white)][github]&nbsp;
+[![C++](https://img.shields.io/badge/C/C%2B%2B-%23013243.svg?style=for-the-badge&logo=&logoColor=white)][github]&nbsp;
 [![Chatbot](https://img.shields.io/badge/Chatbot-1877F2?style=for-the-badge&logo=dependabot&logoColor=white)][github]&nbsp;
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)][github]&nbsp;
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)][github]&nbsp;
@@ -40,6 +39,7 @@ Experienced Software Developer with strong problem-solving skills and the abilit
 [![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)][github]&nbsp;
 [![hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)][github]&nbsp;
 [![ML](https://img.shields.io/badge/Machine_Learning-%23013243.svg?style=for-the-badge&logo=&logoColor=white)][github]&nbsp;
+[![ML](https://img.shields.io/badge/NLP-%23404d59.svg?style=for-the-badge&logo=&logoColor=white)][github]&nbsp;
 [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)][github]&nbsp;
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)][github]&nbsp;
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)][github]&nbsp;
