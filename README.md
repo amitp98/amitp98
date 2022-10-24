@@ -8,10 +8,10 @@
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]&nbsp;
 [![website Badge](https://img.shields.io/badge/website-013243?style=for-the-badge&logo=&logoColor=white)][website]&nbsp;
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][mail]&nbsp;
 
 <!--
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][mail]&nbsp;
 [![website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)][website]&nbsp;
 -->
 
